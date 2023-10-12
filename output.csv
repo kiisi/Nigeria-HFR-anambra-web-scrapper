@@ -1,0 +1,653 @@
+State,LGA,Ward,Facility UID,Facility Code,Facility Name,Facility Level,Ownership,Details,
+Anambra,Aguata,Achina I,72067353,04/01/1/1/2/0027,Kandudi Hospital Achina,Secondary,Private,View
+Anambra,Aguata,Achina I,78549523,04/01/1/1/1/0028,Oye Achina Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Achina I,28996672,04/01/1/2/2/0075,Peoples Choice Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Achina II,52265267,04/01/1/1/1/0013,Ebele Achina Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Agulu Ezechukwu,64170621,04/01/1/1/1/0090,Aguluezechukwu Health Post,Primary,Public,View
+Anambra,Aguata,Agulu Ezechukwu,47592023,04/01/1/1/1/0089,Obiofia -Aguluezechukwu Primary Health Center,Primary,Public,View
+Anambra,Aguata,Akpo,68105375,04/01/1/2/2/0071,St Raphael Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Amesi,45439715,04/01/1/1/1/0010,Amesi Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Ekwuluobia I,82593297,04/01/1/1/1/0003,Aguata Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Ekwuluobia I,43462356,04/01/1/2/2/0084,Anointed Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,79881461,04/01/1/1/2/0005,Chibuzo Hospital And Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,15208431,04/01/1/1/2/0010,Chikamso Hospital and Maternity Ekwulobia,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,54743004,04/01/1/2/2/0077,Dionye Memorial Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,85032519,04/01/1/2/2/0069,Life Care Hospital,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,67153578,04/01/1/1/2/0029,Messiah Foundation Hospital EKWULUOBIA,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,20250025,04/01/1/1/2/0030,Nneoma Maternity Ekulobia,Primary,Private,View
+Anambra,Aguata,Ekwuluobia I,18122974,04/01/1/1/2/0033,Ogechukwu Hospital and Maternity Ekwulobia,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,27712309,04/01/1/2/2/0060,St Catherine Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,20279368,04/01/1/1/2/0038,"St. Victoria Specialist Hospital,/Maternity, Ekwulobia",Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,73966250,04/01/1/2/2/0065,Ukandu Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia I,14961652,04/01/1/2/2/0070,WHITE DOVE HOSPITAL AND MATERNITY,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia II,47106197,04/01/1/2/2/0066,Cynvic Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia II,16698075,04/01/1/2/1/0001,Ekwuluobia General Hospital,Secondary,Public,View
+Anambra,Aguata,Ekwuluobia II,18974277,04/01/1/2/2/0079,NATIONAL MEDICAL CENTRE ULA EKWULUOBIA,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia II,66410758,04/01/1/2/2/0009,St. Mary Hospital And Maternity,Secondary,Private,View
+Anambra,Aguata,Ekwuluobia II,28637960,04/01/1/1/1/0050,Ula Ekwulobia Health Post,Primary,Public,View
+Anambra,Aguata,Ekwuluobia II,25783651,04/01/1/1/1/0030,Ula Ekwulobia Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Ezinifite I,79083205,04/01/1/1/1/0007,Aku Ezinifite Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Ezinifite I,57988004,04/01/1/1/2/0062,By His Stripes Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ezinifite I,78952674,04/01/1/2/2/0056,Life Guard Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ezinifite II,39488263,04/01/1/3/1/0053,Chukwuemeka Odumegwu Ojukwu Teaching Hospital,Secondary,Public,View
+Anambra,Aguata,Ezinifite II,60476304,04/01/1/1/1/0020,Ifite Ezinifite Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Igboukwu 11,87330571,04/01/1/1/2/0063,Chukwuebuka Maternity Home,Primary,Private,View
+Anambra,Aguata,Igboukwu 11,33536888,04/01/1/2/2/0073,Gods Mercy Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu 11,27130471,04/01/1/1/1/0021,Ifite Igboukwu Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Igboukwu 11,65747743,04/02/1/1/1/0014,Ihuekiri Health Post,Primary,Public,View
+Anambra,Aguata,Igboukwu 11,43624347,04/01/1/2/2/0074,OGECHUKWU HOSPITAL AND MATERNITY,Secondary,Private,View
+Anambra,Aguata,Igboukwu 11,63882790,04/01/1/2/2/0061,Prime Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu 11,35949173,04/01/1/2/2/0057,St Jude Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu 11,52431421,04/01/1/2/2/0072,St Raphael Catholic Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,46150457,04/01/1/2/2/0001,Anglican Diocesan Hospital and Maternity Igboukwu,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,81553729,04/01/1/2/2/0004,Apex Medical Centre Igboukwu,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,15678299,04/01/1/1/2/0064,El -Shaddai Clinic,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,62432919,04/01/1/1/2/0085,Grace Maternity Home Ngo Igboukwu,Primary,Private,View
+Anambra,Aguata,Igboukwu I,21759292,04/01/1/1/2/0023,He Reigns Hospital And Maternity Igboukwu,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,63886828,04/01/1/2/2/0081,The Lord Reigns Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,68740989,04/01/1/2/2/0058,Tobechukwu Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Igboukwu I,26704099,04/01/1/1/2/0040,Union Hospital Igbo-Ukwu,Secondary,Private,View
+Anambra,Aguata,Ikenga,66176511,04/01/1/1/1/0022,Ikenga Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Isuofia,22215931,04/01/1/1/2/0082,Chidimma Maternity Home Isuofia,Primary,Private,View
+Anambra,Aguata,Isuofia,45140059,04/01/1/1/1/0029,Ozala Isuofia Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Isuofia,17141568,04/19/1/1/1/0050,Umueze Isuofia Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Mkpologwu,58531308,04/01/1/2/2/0008,Edeltraut Memorial Community Hospital,Secondary,Private,View
+Anambra,Aguata,Mkpologwu,15400072,04/01/1/2/2/0080,National Medical Centre Nkpologwu,Secondary,Private,View
+Anambra,Aguata,Mkpologwu,16760658,04/01/1/1/1/0023,Nkpologwu Model Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Ora-Eri,12997602,04/01/1/2/2/0078,Chiemelie Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Ora-Eri,87445637,04/19/1/1/1/0047,Ora-eri Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Uga 11,77728525,04/01/1/2/2/0067,Apex Medical Centre UGA,Secondary,Private,View
+Anambra,Aguata,Uga 11,33768208,04/19/1/1/1/0044,Awalasi Uga Model Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Uga 11,80372370,04/01/1/1/2/0006,Chidera Model Hospital and Maternity Home,Secondary,Private,View
+Anambra,Aguata,Uga 11,18681500,04/01/1/2/2/0052,Grace Land Majestic USA Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Uga 11,51530254,04/01/1/1/2/0026,Jesse Memorial Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Uga 11,61021756,04/01/1/1/1/0086,Nkwo Uga Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Uga 11,35630283,04/01/1/2/2/0059,St Patrick Hospital and Maternity,Secondary,Private,View
+Anambra,Aguata,Uga 11,45294642,04/01/1/1/2/0039,The Lord Reigns Hospital & Matarnity,Secondary,Private,View
+Anambra,Aguata,Uga I,57437818,04/16/1/1/1/0006,Ave Maria Hospital and Maternity Home UGA,Secondary,Private,View
+Anambra,Aguata,Uga I,34721892,04/01/1/2/2/0083,He Reigns Hospital and Maternity Uga,Secondary,Private,View
+Anambra,Aguata,Uga I,24654799,04/01/1/2/2/0068,SHEKKINA GLORY HOSPITAL,Secondary,Private,View
+Anambra,Aguata,Umuchu 1,50810718,04/01/1/2/2/0002,Akachukwu Hospital & Maternity Umuchu,Secondary,Private,View
+Anambra,Aguata,Umuchu 1,19204570,04/01/1/1/1/0011,Amihie Umuchu Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Umuchu 1,30190869,04/01/1/1/2/0001,Catholic Visitation Hospital & Maternity Umuchu,Secondary,Private,View
+Anambra,Aguata,Umuchu 1,82195337,04/01/1/1/2/0031,Nwajiaku Inland Hospital And Maternity,Secondary,Private,View
+Anambra,Aguata,Umuchu 1,34018574,04/19/1/1/1/0049,Ozala Akukwa Primary Health Centre,Primary,Public,View
+Anambra,Aguata,Umuchu 1,48375771,04/01/1/2/1/0003,Umuchu General Hospital,Secondary,Public,View
+Anambra,Aguata,Umuona,65680679,04/01/1/2/2/0076,Ijeoma Hospital and Maternity,Secondary,Private,View
+Anambra,Anambra East,Aguleri I,59599433,04/02/1/1/1/0040,Igboezunu Aguleri Primary Health Centre,Primary,Public,View
+Anambra,Anambra East,Nsugbe 2,83284172,04/02/1/1/1/0039,Nwafor Orizu College of Education Medical Centre,Primary,Public,View
+Anambra,Anambra East,Otuocha 2,33527840,04/02/1/2/2/0038,JC New Life Hospital and Maternity Otuocha,Secondary,Private,View
+Anambra,Anambra East,Otuocha 2,68041477,04/02/1/2/2/0002,Onyedikachi Hospital & Maternity,Secondary,Private,View
+Anambra,Anaocha,Ichida 1,64415828,04/04/1/1/1/0031,Ubulu Ichida Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Adazi Ani 1,57704856,04/04/1/1/1/0001,Adazi Ani 1 Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Adazi Ani 1,78026574,04/04/1/1/2/0007,Chukwudi Hospital Adazi Ani,Primary,Private,View
+Anambra,Anaocha,Adazi Ani 11,76787725,04/04/1/1/1/0033,Rise Clinic,Primary,Private,View
+Anambra,Anaocha,Adazi Enu 1,72729790,04/04/1/1/1/0003,Adazi Enu 1 Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Adazi Enu 1,54231679,04/04/1/1/1/0048,Enugwu Adazi Health Post,Primary,Public,View
+Anambra,Anaocha,Adazi Enu 2,70915221,04/04/1/1/1/0033,Akwankwo Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Adazi Enu 2,57026115,04/04/1/1/2/0019,Micheal Momoral Hospital Adazi-Enu,Secondary,Private,View
+Anambra,Anaocha,Adazi Nnukwu 1,36769485,04/04/1/1/2/0001,Adazi St Joseph Hospital,Secondary,Private,View
+Anambra,Anaocha,Adazi Nnukwu 1,45663875,04/04/1/1/1/0004,Adazi-Nnukwu Community Reproductive Referral Health Centre,Primary,Public,View
+Anambra,Anaocha,Adazi Nnukwu 1,69178420,04/04/1/1/1/0002,Adazinnukwu Health Post,Primary,Public,View
+Anambra,Anaocha,Adazi Nnukwu 1,78832149,04/04/1/2/2/0036,chukwudubem hosp adazinnukwu,Secondary,Private,View
+Anambra,Anaocha,Adazi Nnukwu 1,76717633,04/04/1/1/2/0024,Our Mother of Peace Mat.Adazi Nnukwu,Primary,Private,View
+Anambra,Anaocha,Adazi Nnukwu 1,19183830,04/04/1/2/2/0034,St Benedict Hosp Adazi nnukwu,Secondary,Private,View
+Anambra,Anaocha,Adazi Nnukwu 1,59406766,04/04/1/1/1/0033,St Joseph's Hospital,Secondary,Private,View
+Anambra,Anaocha,Agulu 1,77354512,04/04/1/1/1/0041,Amorji Agulu health post,Primary,Public,View
+Anambra,Anaocha,Agulu 1,70611455,04/04/1/1/2/0009,Echezona Hospital and Maternity,Secondary,Private,View
+Anambra,Anaocha,Agulu 1,41529170,04/04/1/1/2/0046,KOSISO MATERNITY AGULU,Primary,Private,View
+Anambra,Anaocha,Agulu 1,75471148,04/04/1/1/1/0014,Ukunu Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu II,30573596,04/04/1/2/1/0001,Agulu General Hospital,Secondary,Public,View
+Anambra,Anaocha,Agulu II,85688800,04/04/1/1/2/0002,All Saints Hospital Agulu,Secondary,Private,View
+Anambra,Anaocha,Agulu II,71568967,04/04/1/1/1/0007,Amatutu Model Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu II,71872378,04/04/1/1/2/0042,CHINAZAEKPERE MATERNITY HOME AGULU,Primary,Private,View
+Anambra,Anaocha,Agulu II,56077513,04/04/1/1/2/0011,Ifeanyi Chukwu Hospital and Maternity,Secondary,Private,View
+Anambra,Anaocha,Agulu II,66922684,04/04/1/1/1/0013,Nkitaku Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu II,43478990,04/04/1/1/1/0017,Obeagu Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu II,75571070,04/04/1/1/1/0038,Umubialla Primary Heath post Agulu,Primary,Public,View
+Anambra,Anaocha,Agulu III,39573665,04/04/1/1/2/0005,Chibuikem Hospital and Maternity Agulu,Primary,Private,View
+Anambra,Anaocha,Agulu III,17458955,04/04/1/1/1/0045,Ifite Ani Health Post Agulu,Primary,Public,View
+Anambra,Anaocha,Agulu III,72755424,04/04/1/1/1/0037,ifite ani primary heath centre,Primary,Public,View
+Anambra,Anaocha,Agulu III,32548484,04/04/1/2/2/0040,Mac Jane Hosp Agulu,Secondary,Private,View
+Anambra,Anaocha,Agulu III,81827488,04/04/1/1/1/0015,Nneogidi Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu III,44942934,04/04/1/1/1/0019,Umuowelle Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Agulu IV,26682195,04/04/1/1/2/0010,Epheta Maternity Centre Affor Agulu,Primary,Private,View
+Anambra,Anaocha,Agulu IV,28336933,04/04/1/1/1/0033,Nneoha Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Aguluizigbo,77286001,04/04/1/2/1/0002,Aguluizugbo General Hospital,Secondary,Public,View
+Anambra,Anaocha,Aguluizigbo,68677300,04/04/1/1/1/0005,Aguluzigbo Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Aguluizigbo,52068738,04/04/1/1/1/0033,Amakabuchi Maternity Aguluzigbo,Primary,Private,View
+Anambra,Anaocha,Akwaeze,27175280,04/04/1/1/1/0009,Community Reproductive Referral Health Centre Akwaeze,Primary,Public,View
+Anambra,Anaocha,Ichida II,17165502,04/04/1/1/1/0011,Ichida 11 Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Ichida II,66036274,04/04/1/1/2/0047,UZOMA MATERNITY ICHIDA 2,Primary,Private,View
+Anambra,Anaocha,Neni 1,85348169,04/04/1/3/1/0001,Nnamdi Azikiwe University Teaching Hospitalneni,Secondary,Public,View
+Anambra,Anaocha,Neni 1,19128609,04/04/1/1/1/0008,Nneni Community Reproductive Referral Health Centre,Primary,Public,View
+Anambra,Anaocha,Neni 11,30074050,04/04/1/1/1/0032,Umuabani Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Neni 11,42447827,04/04/1/1/1/0033,Umunri Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Nri 1,16521163,04/04/1/1/1/0033,Nri General Hospital,Secondary,Public,View
+Anambra,Anaocha,Nri 11,86070537,04/04/1/1/1/0033,Nri 2 Primary Health Centre,Primary,Public,View
+Anambra,Anaocha,Obeledu,37367636,04/04/1/1/1/0044,OBELEDU HEALTH POST,Primary,Public,View
+Anambra,Anaocha,Obeledu,36699234,04/04/1/1/1/0018,Obeledu Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Achalla I,59859980,04/05/1/1/1/0002,Achalla Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Achalla II,68771898,04/05/1/1/1/0001,Achalla Health Post,Primary,Public,View
+Anambra,Awka North,Achalla III,82204922,04/05/1/1/2/0001,Achalla LGA Health Post,Primary,Public,View
+Anambra,Awka North,Achalla III,41900339,04/05/1/1/1/0018,Achalla Maternal and Child Health Care Centre,Primary,Public,View
+Anambra,Awka North,Amansea,49801008,04/05/1/1/1/0023,Amansea Health Post,Primary,Public,View
+Anambra,Awka North,Amansea,40451737,04/05/1/1/1/0062,Okukwa Amansea Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Amansea,45023298,04/05/1/1/1/0028,Orebe Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Amanuke ward,64868594,04/05/1/2/1/0002,Amanuke General Hospital,Secondary,Public,View
+Anambra,Awka North,Amanuke ward,15471118,04/05/1/1/1/0003,Amanuke Health Post,Primary,Public,View
+Anambra,Awka North,Amanuke ward,68921137,04/03/1/1/1/0003,Amanuke Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Awba -Ofemili ward,56013418,04/05/1/1/1/0024,Awba Ofemmili Health Post,Primary,Public,View
+Anambra,Awka North,Ebenebe 2,55286443,04/05/1/1/2/0004,Dike Medical Centre,Secondary,Private,View
+Anambra,Awka North,Ebenebe 2,59982176,04/05/1/1/1/0008,Obuno Ebenebe Health Post,Primary,Public,View
+Anambra,Awka North,Ebenebe 3,26868247,04/05/1/1/1/0014,Umuogbuefi PrimaryHealth Center,Primary,Public,View
+Anambra,Awka North,Ebenebe ward 1,46430249,04/05/1/1/1/0027,Ofuobi Ebenebe Primary Health Centre,Primary,Public,View
+Anambra,Awka North,Ebenebe ward 1,44078183,04/05/1/1/1/0035,Umuji Health Post,Primary,Public,View
+Anambra,Awka North,Isuaniocha ward,45989798,04/05/1/1/1/0015,Isuaniocha Health Post,Primary,Public,View
+Anambra,Awka South,Amawbia II,27850625,04/06/1/1/2/0047,Our Lord's Hospital and Maternity Amawbia,Secondary,Private,View
+Anambra,Awka South,Amawbia III,62912587,04/06/1/1/1/0003,Amawbia Maternal And Child Health Clinic,Primary,Public,View
+Anambra,Awka South,Amawbia III,66142456,04/06/1/1/1/0004,Amawbia Prison Clinic,Primary,Public,View
+Anambra,Awka South,Amawbia III,20970440,04/06/1/1/2/0025,Prime Specislist Hospital Children,Secondary,Private,View
+Anambra,Awka South,Amawbia III,55347822,04/06/1/2/2/0070,Spotlight Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Amawbia III,43584746,04/06/1/2/2/0005,St Helen Specialist Hospital Maternity,Secondary,Private,View
+Anambra,Awka South,Amawbia III,84723629,04/06/1/1/2/0045,Vessel Of Mercy Hospital and Maternity Amawbia,Secondary,Private,View
+Anambra,Awka South,Awka I,79829652,04/06/1/1/1/0013,Nkwelle Awka Health Post,Primary,Public,View
+Anambra,Awka South,Awka II,38252988,04/06/1/2/2/0044,Apex Orthopedic and Muiti Speciality Medical Complex Awka,Secondary,Private,View
+Anambra,Awka South,Awka II,24029361,04/06/1/1/2/0002,Beacon Hospital/Maternity,Secondary,Private,View
+Anambra,Awka South,Awka II,70616346,04/06/1/1/2/0003,Bethany Medical Clinic Awka,Primary,Private,View
+Anambra,Awka South,Awka II,80281960,04/06/1/1/2/0004,Chidubem Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Awka II,74583907,04/06/1/1/1/0039,ChukwuemekaOdumegwu Ojukwu University Teaching Hosp. Amaku,Tertiary,Public,View
+Anambra,Awka South,Awka II,74346719,04/06/1/1/2/0010,Climax Specialist Hospital,Secondary,Private,View
+Anambra,Awka South,Awka II,12970142,04/17/1/1/2/0032,Izunna Hospital,Secondary,Private,View
+Anambra,Awka South,Awka II,34068055,04/06/1/1/2/0021,Miracle Hospital and Maternity Home,Secondary,Private,View
+Anambra,Awka South,Awka II,33997196,04/06/1/2/2/0003,Okoye Specialist Hospital,Secondary,Private,View
+Anambra,Awka South,Awka II,69721499,04/06/1/2/2/0004,Regina Ceali Hospital,Secondary,Private,View
+Anambra,Awka South,Awka II,84313921,04/06/1/2/2/0074,St Theresa Hospital,Secondary,Private,View
+Anambra,Awka South,Awka II,83567704,04/06/1/1/1/0026,Umuzocha Health Post,Primary,Public,View
+Anambra,Awka South,Awka III,23603887,04/06/1/2/2/0042,DayStar Specialist Hospital and Maternity(Multi-Specialist),Secondary,Private,View
+Anambra,Awka South,Awka III,74449660,04/06/1/2/2/0002,Ifebi Medical Centre,Secondary,Private,View
+Anambra,Awka South,Awka III,75903831,04/05/1/1/2/0008,Ikechukwu Maternity Awka,Primary,Private,View
+Anambra,Awka South,Awka III,78975565,04/06/1/2/2/0043,Joevic Specialist and Maternity Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka III,85770816,04/06/1/1/1/0023,Umudioka Primary Health Centre,Primary,Public,View
+Anambra,Awka South,Awka IV,61182316,04/06/1/1/2/0009,Christ The King Hospital,Secondary,Private,View
+Anambra,Awka South,Awka IV,58679092,04/06/1/1/2/0001,Harmony Hospital,Secondary,Private,View
+Anambra,Awka South,Awka IV,82606592,04/06/1/1/2/0017,His Glory Hospital And Maternity,Secondary,Private,View
+Anambra,Awka South,Awka IV,84767870,04/06/1/2/2/0078,Hope Alive Mission Hospital,Secondary,Private,View
+Anambra,Awka South,Awka IV,52061723,04/06/1/1/1/0039,Rock Foundation Hospital,Secondary,Private,View
+Anambra,Awka South,Awka IV,40832974,04/05/1/1/1/0036,Umuogbunu Health Post,Primary,Public,View
+Anambra,Awka South,Awka V,82756661,04/06/1/1/1/0002,Agulu Health Post,Primary,Public,View
+Anambra,Awka South,Awka V,72366890,04/06/1/1/2/0023,Obioma Hospital / Maternity,Secondary,Private,View
+Anambra,Awka South,Awka V,17562960,04/06/1/2/2/0040,R.N Afunugo Memorial Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,76182134,04/07/1/1/1/0001,Amikwo Heath Post,Primary,Public,View
+Anambra,Awka South,Awka VI,79170112,04/06/1/2/2/0056,Awka Medical Center,Secondary,Private,View
+Anambra,Awka South,Awka VI,23093496,04/06/1/1/2/0011,Crest Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,27634370,04/06/1/1/2/0012,Divine Hospital And Maternity,Secondary,Private,View
+Anambra,Awka South,Awka VI,51474375,04/06/1/2/2/0052,Everest Hospital and Maternity Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,77994234,04/06/1/2/2/0061,First Hospital and Maternity Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,17579461,04/06/1/2/2/0054,Pearls Specialist Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,37504319,04/06/1/2/1/0004,Police Comprehensive Hospital Awka,Secondary,Public,View
+Anambra,Awka South,Awka VI,47878281,04/06/1/2/2/0046,Radiant Health Specialist Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,37313223,04/06/1/2/2/0055,Rapha Specialist Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VI,71138843,04/06/1/3/2/0071,Restoration Specialist Hospital,Secondary,Private,View
+Anambra,Awka South,Awka VI,40726907,04/06/1/1/2/0031,Sefton Specialist Hospital,Secondary,Private,View
+Anambra,Awka South,Awka VI,24718513,04/06/1/2/2/0041,Shekinah Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Awka VI,18019242,04/06/1/2/2/0072,Think Home Hospital,Secondary,Private,View
+Anambra,Awka South,Awka VI,63796591,04/06/1/2/2/0006,Trinity Hospital and Maternity Awka,Secondary,Private,View
+Anambra,Awka South,Awka VII,31547522,04/06/1/2/2/0059,Life International Hospital Awka,Secondary,Private,View
+Anambra,Awka South,Awka VII,54179734,04/06/1/1/1/0018,Primary Health Centre Umuokpu,Primary,Public,View
+Anambra,Awka South,Awka VII,15176350,04/06/1/2/2/0079,St Augustine and Vivian Mission Hospital and mat,Secondary,Private,View
+Anambra,Awka South,Awka VIII,19950323,04/06/1/2/2/0073,Madonna Hospital,Secondary,Private,View
+Anambra,Awka South,Awka VIII,80927297,04/06/1/1/1/0065,Mopol Base Health Post,Primary,Public,View
+Anambra,Awka South,Isiagu Ezinator,34650234,04/06/1/1/1/0006,Ezinator Health Post,Primary,Public,View
+Anambra,Awka South,Isiagu Ezinator,41575928,04/06/1/1/1/0007,Isiagu Primary Health Centre,Primary,Public,View
+Anambra,Awka South,Mbaukwu,43962161,04/06/1/1/1/0001,Akabor Health Post,Primary,Public,View
+Anambra,Awka South,Mbaukwu,65075180,04/06/1/2/2/0060,Ifeanyichukwu Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Mbaukwu,25638135,04/06/1/2/1/0003,Mbaukwu General Hospital,Secondary,Public,View
+Anambra,Awka South,Mbaukwu,20063737,04/06/1/1/1/0009,Namkpu Health Post,Primary,Public,View
+Anambra,Awka South,Mbaukwu,49718082,04/06/1/1/1/0015,Ovollo Mbaukwu Health Post,Primary,Public,View
+Anambra,Awka South,Nibo I,28588891,04/06/1/1/1/0005,Ezeoye Health Post,Primary,Public,View
+Anambra,Awka South,Nibo I,28866897,04/06/1/1/1/0039,Ezioye/Ezeawulu Primary Health Centre,Primary,Public,View
+Anambra,Awka South,Nibo I,14217995,04/06/1/1/1/0039,God is Able Maternity,Primary,Private,View
+Anambra,Awka South,Nibo II,46494288,04/06/1/1/1/0012,Nibo Primary Health Center,Primary,Public,View
+Anambra,Awka South,Nibo III,82728774,04/06/1/1/1/0011,Nibo Basic Health Centre,Primary,Public,View
+Anambra,Awka South,Nise I,37524844,04/06/1/1/1/0039,Isiakpu Health Post,Primary,Public,View
+Anambra,Awka South,Nise I,15377706,04/06/1/1/1/0039,Obeagu Arah Health Post,Primary,Public,View
+Anambra,Awka South,Nise II,71853820,04/06/1/1/1/0010,Ngodo Nise Health Post,Primary,Public,View
+Anambra,Awka South,Nise II,81825265,04/06/1/1/1/0008,Nise Primary Health Centre,Primary,Public,View
+Anambra,Awka South,Okpuno I,18195960,04/06/1/2/2/0063,Cedars Specialist Hospital,Secondary,Private,View
+Anambra,Awka South,Okpuno I,72030822,04/06/1/2/2/0064,Eldorado Multispecialist Hospital,Secondary,Private,View
+Anambra,Awka South,Okpuno I,39678195,04/06/1/2/2/0053,Graceland Hospital,Secondary,Private,View
+Anambra,Awka South,Okpuno I,59756993,04/06/1/2/2/0051,Infant Jesus Hospital,Secondary,Private,View
+Anambra,Awka South,Okpuno I,48118582,04/06/1/2/2/0069,Meshach Memorial Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Okpuno I,24840464,04/06/1/2/2/0050,New Convenant Children Hospital Okpuno,Secondary,Private,View
+Anambra,Awka South,Okpuno I,78984684,04/06/1/1/1/0014,Okpuno Primary Health Centre,Primary,Public,View
+Anambra,Awka South,Okpuno I,58393601,04/06/1/2/2/0049,Reedemed Chritian Church Of God Hospital,Secondary,Private,View
+Anambra,Awka South,Okpuno I,68718929,04/06/1/1/1/0039,St Faith Hospital and Maternity,Secondary,Private,View
+Anambra,Awka South,Umuawulu,70009915,04/06/1/1/1/0016,Umuawulu Primary Health Center,Primary,Public,View
+Anambra,Awka South,Unknown,44709103,04/06/1/1/2/0016,Felly Clinic Amawbia,Primary,Private,View
+Anambra,Ayamelum,Ifite Ogwari ward 1,46177270,04/07/1/2/2/0031,St Joseph Catholic Hospital/Maternity Ifite,Secondary,Private,View
+Anambra,Ayamelum,Ifite Ogwari ward 2,28751444,04/07/1/1/1/0032,Isi-udala Health post,Primary,Public,View
+Anambra,Ayamelum,Omor ward 2,48419374,04/07/1/2/2/0026,St Vincent Hospital And Maternity Omor,Secondary,Private,View
+Anambra,Dunukofia,Ifitedunu 1,45952859,04/08/1/2/2/0033,Edozie Hospital and Maternity,Secondary,Private,View
+Anambra,Dunukofia,Ifitedunu 2,75042039,04/08/1/2/2/0039,Ideal Hospital and Maternity,Secondary,Private,View
+Anambra,Dunukofia,Ifitedunu 2,59934918,04/08/1/1/1/0007,Igbuala Health Post,Primary,Public,View
+Anambra,Dunukofia,Ukpo 1,26138848,04/08/1/1/1/0009,Iruazom Health Post,Primary,Public,View
+Anambra,Dunukofia,Ukpo 1,75771182,04/08/1/1/1/0011,Iruzu Ukpo Primary Health Centre,Primary,Public,View
+Anambra,Dunukofia,Ukpo 2,38334917,04/08/1/1/1/0012,Isiekwulu Primary Health Centre,Primary,Public,View
+Anambra,Dunukofia,Ukpo 3,72109530,04/08/1/1/1/0034,LGA Health Clinic,Primary,Public,View
+Anambra,Dunukofia,Ukwulu ward 2,87090540,04/08/1/2/2/0038,Model Hospita Ukwulu,Secondary,Private,View
+Anambra,Dunukofia,Umunnachi ward 1,71981062,04/08/1/1/2/0004,Chinazo Hospital and Maternity Umunachi,Secondary,Private,View
+Anambra,Dunukofia,Umunnachi ward 1,65483362,04/08/1/1/2/0006,First Foundation Hospital & Maternity,Secondary,Private,View
+Anambra,Ekwusigo,Amakwa,81015231,04/09/1/2/2/0056,Access Specialist Hospital Ozubulu,Secondary,Private,View
+Anambra,Ekwusigo,Amakwa,46901206,04/09/1/2/2/0041,Chisom Hospital/Maternity Ozubulu,Secondary,Private,View
+Anambra,Ekwusigo,Amakwa,84369505,04/09/1/2/1/0001,"Joint Hospital, Ozubulu Amakwa",Secondary,Private,View
+Anambra,Ekwusigo,Egbema,78590732,04/09/1/1/2/0008,Evans Specialist Hospital Ozbulu,Secondary,Private,View
+Anambra,Ekwusigo,Egbema,72521933,04/09/1/2/2/0043,Loyola Hospital&Maternity Ozubulu,Secondary,Private,View
+Anambra,Ekwusigo,Egbema,33105681,04/09/1/2/2/0042,Odinaka Hospital/Maternity Ozubulu,Secondary,Private,View
+Anambra,Ekwusigo,Eziora 1,32307934,04/09/1/1/2/0012,Gracelight and Truth Health Maternity,Secondary,Private,View
+Anambra,Ekwusigo,Eziora 1,63559889,04/09/1/1/2/0020,St. Jude Hospital and Maternity,Secondary,Private,View
+Anambra,Ekwusigo,Ichi,57776327,04/09/1/2/1/0055,Ichi General Hospital,Secondary,Public,View
+Anambra,Ekwusigo,Ifite..,39318248,04/09/1/1/2/0011,God's Victory Hospital/Maternity Oraifite,Secondary,Private,View
+Anambra,Ekwusigo,Ifite..,55849414,04/09/1/2/2/0047,Josephine and Lawrence memorial Hospital/Maternityity Ifite,Secondary,Private,View
+Anambra,Ekwusigo,Ifite..,58867042,04/09/1/2/1/0054,Oraifite General Hospital,Secondary,Public,View
+Anambra,Ekwusigo,Ihembosi 2,70237134,04/09/1/1/2/0013,Holy Family Hospital/Maternity,Primary,Private,View
+Anambra,Ekwusigo,Nza,84559943,04/09/1/1/1/0021,Nza Primary Health Centre,Primary,Public,View
+Anambra,Ekwusigo,Uruokwe,60373506,04/09/1/1/2/0040,Okika Maternity,Primary,Private,View
+Anambra,Ekwusigo,Uruokwe,12907941,04/09/1/1/1/0039,Urumabiam Health Post,Primary,Public,View
+Anambra,Idemili North,Abacha,70202583,04/10/1/1/1/0001,Abacha Primary Health Centre,Primary,Public,View
+Anambra,Idemili North,Abatete,75810193,04/10/1/1/1/0139,Holy Trinity Primary Health Center,Primary,Public,View
+Anambra,Idemili North,Nkpor,65671614,04/10/1/2/2/0131,Blessed Hospital,Secondary,Private,View
+Anambra,Idemili North,Nkpor,71400795,04/10/1/1/2/0111,Blessed Maternity,Primary,Private,View
+Anambra,Idemili North,Nkpor,27626667,04/10/1/2/2/0130,Dalex Hospital,Secondary,Private,View
+Anambra,Idemili North,Nkpor,41738595,04/10/1/2/2/0122,Hillview Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,74138890,04/10/1/2/2/0110,Hossana Hospital,Secondary,Private,View
+Anambra,Idemili North,Nkpor,77224560,04/10/1/2/2/0015,Immaculate Heart Hospital Nkpor,Secondary,Private,View
+Anambra,Idemili North,Nkpor,71408102,04/10/1/2/2/0106,Ivy Foundation Hospital Nkpor,Secondary,Private,View
+Anambra,Idemili North,Nkpor,65185761,04/10/1/1/2/0035,Mainland Hospital,Secondary,Private,View
+Anambra,Idemili North,Nkpor,84908917,04/10/1/2/2/0135,Mmachukwu Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,79527674,04/10/1/2/2/0120,Rock of Ages Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,66442814,04/10/1/2/2/0114,Siri Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,13281574,04/10/1/2/2/0129,St Dominic Savio,Secondary,Private,View
+Anambra,Idemili North,Nkpor,62936000,04/10/1/2/2/0128,St Martins Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,50887932,04/10/1/2/2/0127,St Stephen Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor,22907561,04/10/1/2/2/0117,Summer Hill Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor II,22809263,04/10/1/2/2/0123,Akachukwu Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor II,28613247,04/10/1/1/2/0008,Chukwubuikem Hospital & Maternity,Secondary,Private,View
+Anambra,Idemili North,Nkpor-Uno 1,20078910,04/10/1/2/2/0136,Caprin Hospital,Secondary,Private,View
+Anambra,Idemili North,Nkpor-Uno 1,42155451,04/10/1/2/2/0005,Chukwudi Medical Care Hospital,Secondary,Private,View
+Anambra,Idemili North,Obosi 1,15651543,04/10/1/1/1/0137,Bishop Nkemena Health Post,Primary,Public,View
+Anambra,Idemili North,Obosi 1,14314815,04/10/1/2/2/0098,Day Spring Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Obosi 1,16501780,04/10/1/2/2/0138,Moon-Health Foundation Hospital and Diagnostics Limited,Secondary,Private,View
+Anambra,Idemili North,Obosi 1,45600995,04/10/1/1/1/0042,Obosi Model Primary Health Centre,Primary,Public,View
+Anambra,Idemili North,Obosi 1,63878515,04/10/1/1/2/0060,Ugochukwu Hospital/Maternity Nkpor,Secondary,Private,View
+Anambra,Idemili North,Obosi 1,29375148,04/10/1/2/2/0033,Unity Hospital / Maternity Obosi,Secondary,Private,View
+Anambra,Idemili North,Obosi II,23386884,04/10/1/2/2/0107,Angel of God Hospital Complex Awada,Secondary,Private,View
+Anambra,Idemili North,Obosi II,40817306,04/10/1/2/2/0089,Ark of Convenant Hospital and Maternity Awada,Secondary,Private,View
+Anambra,Idemili North,Obosi II,67618914,04/10/1/1/2/0013,Chinazor Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Obosi II,18836282,04/10/1/2/2/0101,Chizoba Hospital and Maternity Awada,Secondary,Private,View
+Anambra,Idemili North,Obosi II,34074851,04/10/1/2/2/0090,Divine Favour Hospital,Secondary,Private,View
+Anambra,Idemili North,Obosi II,62487633,04/10/1/1/2/0097,Divine Health Clinic,Primary,Private,View
+Anambra,Idemili North,Obosi II,60023205,04/10/1/2/2/0092,Divine Mercy Hospital and Maternity Awada,Secondary,Private,View
+Anambra,Idemili North,Obosi II,75447961,04/10/1/1/2/0104,God's Favour Maternity Awada,Primary,Private,View
+Anambra,Idemili North,Obosi II,32933245,04/10/1/2/2/0012,Hill Crest Hospital,Secondary,Private,View
+Anambra,Idemili North,Obosi II,76318006,04/10/1/2/2/0091,Nationale Hospital Awada,Secondary,Private,View
+Anambra,Idemili North,Obosi II,29512744,04/10/1/2/2/0027,Pieta Hospital Maternity,Secondary,Private,View
+Anambra,Idemili North,Obosi II,13743288,04/10/1/2/2/0108,St Martin's Catholic Hospital and Maternity Awada,Secondary,Private,View
+Anambra,Idemili North,Ogidi,78614637,04/10/1/1/2/0003,Ajafo Okwuosa Hospital Ogidi,Secondary,Private,View
+Anambra,Idemili North,Ogidi,70616477,04/10/1/2/1/0004,Ogidi Maternal and Child Health Clinic,Primary,Public,View
+Anambra,Idemili North,Ogidi,67385460,04/10/1/2/2/0118,Twinkle Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili North,Ogidi II,65604134,04/10/1/1/1/0036,Ogidi Uru Primary Health Centre,Primary,Public,View
+Anambra,Idemili North,Uke,53761018,04/10/1/1/1/0039,Uke Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Akwa-Ukwu ward,42887522,04/11/1/1/1/0003,Akwu-Ukwu Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Alor ward,84023505,04/11/1/1/1/0004,Alor Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Alor ward,19309045,04/11/1/2/1/0004,Mezie Hospital Alor,Secondary,Private,View
+Anambra,Idemili South,Alor ward,76489990,04/11/1/1/1/0041,Okebunoye Health Post,Primary,Public,View
+Anambra,Idemili South,Alor ward,80246216,04/11/1/1/1/0052,Umu-Okwu Alor Health Post,Primary,Public,View
+Anambra,Idemili South,Alor ward,78626013,04/11/1/1/1/0053,Umuoshi Health Post,Primary,Public,View
+Anambra,Idemili South,Awka-Etiti 1,19127905,04/11/1/1/1/0006,Awka-Etiti 1 Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Awka-Etiti 1,38392557,04/11/1/1/1/0036,Ogunzele Health Post,Primary,Public,View
+Anambra,Idemili South,Awka-Etiti 1,67203644,04/11/1/1/1/0042,Our Lady of Fatima Hospital and Maternity,Secondary,Private,View
+Anambra,Idemili South,Awka-Etiti 2,78909606,04/11/1/1/1/0007,Awka-Etiti II Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Awka-Etiti 2,43086893,04/05/1/1/1/0034,Umudunu Health Post,Primary,Public,View
+Anambra,Idemili South,Nnobi II,66145664,04/11/1/1/1/0028,Ngo Health Post,Primary,Public,View
+Anambra,Idemili South,Nnobi II,70801465,04/11/1/1/1/0030,Nnobi Model Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Nnobi III,73707971,04/11/1/1/1/0009,Awuda Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Nnobi ward 1,45969806,04/11/1/1/1/0011,Chukwunonso Hospital And Maternity,Secondary,Private,View
+Anambra,Idemili South,Nnobi ward 1,55578248,04/11/1/1/2/0062,Divine Favour Maternity,Primary,Private,View
+Anambra,Idemili South,Nnobi ward 1,34934418,04/11/1/1/2/0063,Divine Prudence Maternity,Primary,Private,View
+Anambra,Idemili South,Nnobi ward 1,73248145,04/11/1/1/1/0013,Ebenesi Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Nnobi ward 1,24650974,04/11/1/1/2/0007,Moom Hospital And Maternity,Secondary,Private,View
+Anambra,Idemili South,Nnobi ward 1,19410500,04/11/1/2/1/0002,NNOBI GENERAL HOSPITAL,Secondary,Public,View
+Anambra,Idemili South,Nnobi ward 1,43518829,04/11/1/1/1/0057,Umuafor Health Post,Primary,Public,View
+Anambra,Idemili South,Nnokwa ward,59177732,04/11/1/1/1/0029,Nnaku Health Post,Primary,Public,View
+Anambra,Idemili South,Nnokwa ward,75313033,04/11/1/1/1/0032,Nnokwa Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Nnokwa ward,22067941,04/11/1/1/1/0048,Ubili Nnokwa Health Post,Primary,Public,View
+Anambra,Idemili South,Oba,85248074,04/11/1/2/2/0001,"Anichebe Hospital, Oba",Secondary,Private,View
+Anambra,Idemili South,Oba,75875311,04/11/1/1/1/0033,Oba I Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Oba,62039925,04/11/1/2/2/0004,"Reliance Hospital, Oba",Secondary,Private,View
+Anambra,Idemili South,Oba,46692702,04/11/1/1/1/0051,Umuogali Primary Health Post,Primary,Public,View
+Anambra,Idemili South,Oba,42722120,04/11/1/1/1/0060,Uruagu Health Post,Primary,Public,View
+Anambra,Idemili South,Oba II,85897805,04/11/1/2/1/0003,Jesus is Lord and saviour royal hosp and maternity,Secondary,Private,View
+Anambra,Idemili South,Oba II,52995389,04/11/1/1/1/0034,Oba II Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Oba III,17694553,04/11/1/1/1/0008,Awkuzu - Mbana Oba Health center,Primary,Public,View
+Anambra,Idemili South,Oba III,70025631,04/11/1/1/1/0035,Trauma (NAUTH)Centre Oba,Secondary,Public,View
+Anambra,Idemili South,Ojoto,49170749,04/11/1/1/1/0001,Akabor Health Post,Primary,Public,View
+Anambra,Idemili South,Ojoto,72388832,04/11/1/1/1/0002,Akabor Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Ojoto,71446914,04/11/1/1/2/0006,Egbunike Hospital Ojoto,Secondary,Private,View
+Anambra,Idemili South,Ojoto,60579263,04/11/1/1/1/0015,Ezieke Health Post,Primary,Public,View
+Anambra,Idemili South,Ojoto,82383819,04/11/1/1/1/0037,Ojor Health Post,Primary,Public,View
+Anambra,Idemili South,Ojoto,49052006,04/11/1/1/1/0055,Ojoto Maternal and Child Health Clinic,Primary,Public,View
+Anambra,Idemili South,Ojoto,52403605,04/11/1/1/1/0039,Ojoto Obiofia Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Ojoto,42642254,04/11/1/1/1/0038,Ojoto Uno Primary Health Centre,Primary,Public,View
+Anambra,Idemili South,Unknown,66219973,04/11/1/2/2/0005,"St. Francis Specialist Maternity/Hospital, Awka-Etiti",Secondary,Private,View
+Anambra,Ihiala,Amamu A ward,69426962,04/12/1/1/2/0016,Our Lady of Lourdes Hospital Ihiala,Secondary,Private,View
+Anambra,Ihiala,Amamu B ward,67973340,04/12/1/1/1/0037,Eziani ihiala primary health centre,Primary,Public,View
+Anambra,Ihiala,Amorka ward,83236041,04/12/1/1/1/0002,Amorka Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Azia ward,74255463,04/12/1/1/1/0003,Azia Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Eziama/Ihite ward,20921226,04/12/1/1/1/0001,Amamputu uli Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Eziama/Ihite ward,73148383,04/12/1/1/1/0006,Eziama Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ihite Abu Ihite ward,64960788,04/12/1/1/1/0011,Ihite Okija Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ihite Abu Ihite ward,83359493,04/12/1/1/1/0038,Isieke Okija Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ihite Abu Ihite ward,19596024,04/12/1/1/1/0043,Okija Central Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ihite ward,56328646,04/12/1/1/1/0054,Umudara primary health centre,Primary,Public,View
+Anambra,Ihiala,Isseke ward,35151046,04/12/1/1/1/0012,Isseke Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Lilu ward,61689127,04/12/1/1/1/0013,Lilu Abu Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Lilu ward,21911867,04/12/1/1/1/0065,Umuezeala lilu Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Mbosi ward,78014202,04/12/1/1/1/0016,Mbosi Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ogboro ward,60376621,04/12/1/1/1/0041,Ogboro Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ogboro ward,25125254,04/12/1/1/1/0046,Ubahuekwem ihiala primary health centre,Primary,Public,View
+Anambra,Ihiala,Ohuobo ward,42354738,04/12/1/1/1/0063,Umuatuegwu Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Orsumoghu ward,56762145,04/12/1/1/1/0023,Orsumoghu Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Ubuluisiuzor ward,26462523,04/12/1/1/1/0048,Ubuluisiuzo primary health centre,Primary,Public,View
+Anambra,Ihiala,Umuaku,63207857,04/12/1/1/1/0062,Umuaku Uli Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Umuhu/Ubahu ward,61210323,04/12/1/1/2/0083,Dan-Blessing Hospital and Maternity Okija,Secondary,Private,View
+Anambra,Ihiala,Umuhu/Ubahu ward,14178248,04/12/1/1/1/0049,Ugwucheleku okija primary health centre,Primary,Public,View
+Anambra,Ihiala,Umuhu/Ubahu ward,28994293,04/12/1/1/1/0066,Umuhu Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Umuohi ward,67902304,04/12/1/1/1/0068,Umuohi okija Primary Health Centre,Primary,Public,View
+Anambra,Ihiala,Umuoma ward,32200965,04/12/1/1/1/0069,Umuoma Primary Health Centre,Primary,Public,View
+Anambra,Njikoka,Abagana 2,34871780,04/13/1/1/1/0023,Oliobi Health Post Abagana,Primary,Public,View
+Anambra,Njikoka,Abagana ward 1,79976036,04/13/1/1/1/0001,Eziamaigbo Primary Health Centre,Primary,Public,View
+Anambra,Njikoka,Abagana ward 1,53542505,04/13/1/1/1/0032,Uruokpala Health Post,Primary,Public,View
+Anambra,Njikoka,Abagana ward 3,52681754,04/13/1/1/1/0002,Abagana Maternal and Child Health Centre,Primary,Public,View
+Anambra,Njikoka,Abagana ward 3,66037514,04/13/1/3/1/0001,Nnamdi Azikiwe Teaching Hospital Abagana,Secondary,Public,View
+Anambra,Njikoka,Abagana ward 4,24803400,04/13/1/1/1/0003,Abagana Primary Health Centre,Primary,Public,View
+Anambra,Njikoka,Abagana ward 4,51656084,04/13/1/2/2/0040,King David Hospital Abagana,Secondary,Private,View
+Anambra,Njikoka,Abba I,64011513,04/13/1/1/1/0004,Abba Primary Health Centre,Primary,Public,View
+Anambra,Njikoka,Abba I,81731811,04/13/1/1/1/0015,Ireh Abba primary Health center,Primary,Public,View
+Anambra,Njikoka,Enugwu Agidi 1,23679406,04/13/1/1/1/0022,Obunagu Health Post Enugwu Agidi,Primary,Public,View
+Anambra,Njikoka,Enugwu Agidi II,65534097,04/13/1/1/2/0001,Achalla Health Post Enugwu Agidi,Primary,Public,View
+Anambra,Njikoka,Enugwu Agidi II,46648297,04/13/1/1/1/0033,Ogologo Ifite Health Post Enugwuagidi,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 1,24799522,04/13/1/1/1/0032,Ebeire Health Post,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 1,67493104,04/13/1/1/1/0008,Enuagu Enugwu Ukwu Health Post,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 1,23717890,04/13/1/1/1/0011,Enugwu Ukwu General Hospital,Secondary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 1,63896321,04/13/1/1/1/0031,Uruogbo Primary Health Centre,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 2,31894490,04/13/1/1/1/0005,Adagbe Avomimi Health Centre Enugwuukwu,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 2,30861722,04/13/1/1/1/0014,Uruekwo Health Post,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 3,20624524,04/13/1/1/1/0012,Etiti Osili Health Post,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 3,48068627,04/13/1/1/1/0044,Isionye Health Post Enugwu ukwu,Primary,Public,View
+Anambra,Njikoka,Enugwu Ukwu 4,33409776,04/13/1/1/1/0053,Urunnebo Primary Health Center,Primary,Public,View
+Anambra,Njikoka,Nawfia I,54225164,04/13/1/1/1/0034,Ifite Health Post Nawfia,Primary,Public,View
+Anambra,Njikoka,Nawfia II,84392037,04/13/1/1/1/0045,Nawfia Primary Health Center,Primary,Public,View
+Anambra,Njikoka,Nawfia II,22306226,04/13/1/3/1/0002,"Psychiatric Hospital, Nawfia",Tertiary,Public,View
+Anambra,Njikoka,Nimo I,49090400,04/13/1/1/1/0054,Umudiaba Primary Health Center Nimo,Primary,Public,View
+Anambra,Njikoka,Nimo II,37344680,04/13/1/1/1/0030,Irunyiliugani Health Post Nimo,Primary,Public,View
+Anambra,Njikoka,Nimo II,65670830,04/13/1/1/1/0028,Uruokokwe Health Post Nimo,Primary,Public,View
+Anambra,Njikoka,Nimo III,21605903,04/13/1/2/2/0048,Bekee Hospital Nimo,Secondary,Private,View
+Anambra,Njikoka,Nimo III,61331365,04/13/1/1/1/0035,Ezira Primary Health Centre Nimo,Primary,Public,View
+Anambra,Njikoka,Nimo III,69766075,04/13/1/2/1/0049,Nimo General Hospital,Secondary,Public,View
+Anambra,Njikoka,Nimo IV,56468193,04/13/1/1/1/0050,Egbengwu Primary Health Center,Primary,Public,View
+Anambra,Njikoka,Nimo IV,18012509,04/13/1/1/1/0055,Umudu Health Post Egbengwu Nimo,Primary,Public,View
+Anambra,Nnewi North,Nnewi Ichi ward I,43407528,04/14/1/2/2/0089,Chikezie Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward I,39710893,04/14/1/1/2/0008,Chimex Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward I,78784691,04/14/1/1/1/0068,Divine Mercy Hospital and Maternity Otolo,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward I,26908271,04/14/1/2/2/0090,Eastern Specialist Surgical Clinics,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward I,41978984,04/20/1/1/2/0004,Immaculate heart Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward I,27175951,04/14/1/1/1/0110,Nkpoka Health Post,Primary,Public,View
+Anambra,Nnewi North,Nnewi Ichi ward I,29664648,04/14/1/1/2/0042,Obioma Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward II,57094147,04/14/1/2/2/0070,C himaobi Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward II,57978132,04/14/1/2/2/0094,Living Spring Specialist Children Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward II,16035113,04/14/1/2/2/0097,Marion Rose Specialist Hospital and Orthopedic Center,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward II,23148179,04/14/1/1/2/0044,Ojiofor Specialist Hospital Nnewi,Secondary,Private,View
+Anambra,Nnewi North,Nnewi Ichi ward II,71264786,04/14/1/2/2/0107,Uchenna Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward I,63034154,04/14/1/2/2/0073,Chidera Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward I,58485681,04/14/1/2/2/0006,Diocesan Hospital and maternity Nnewi,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward I,17443378,04/14/1/2/2/0100,Grace and Truth Hospital,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward I,65577352,04/14/1/2/2/0104,Heritage Hospital,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward I,84884939,04/14/1/1/1/0026,Ndiakwu Primary Health Centre,Primary,Public,View
+Anambra,Nnewi North,Otolo ward I,45696266,04/14/1/1/1/0068,Obiuno Otolo PrimarY Health center,Primary,Public,View
+Anambra,Nnewi North,Otolo ward II,54050534,04/14/1/2/2/0091,Victory Hospital,Secondary,Private,View
+Anambra,Nnewi North,Otolo ward III,42470372,04/14/1/1/2/0020,Ezekwuabor Primary Health Centre,Primary,Public,View
+Anambra,Nnewi North,Otolo ward III,12689758,04/14/1/1/1/0023,Mbanagu Primary Health Centre,Primary,Public,View
+Anambra,Nnewi North,Otolo ward III,40987725,04/14/1/1/1/0046,Umuzumbana Primary Health Centre,Primary,Public,View
+Anambra,Nnewi North,Umudim ward I,39699445,04/14/1/1/1/0068,Chicason Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Umudim ward I,52606026,04/14/1/1/2/0078,Mathias Adiliue Memorial Maternity,Primary,Private,View
+Anambra,Nnewi North,Umudim ward I,68405480,04/10/1/1/2/0041,Ngozi Chukwuka Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Umudim ward II,67318268,04/14/1/1/1/0002,Akamili Primary Health Clinic,Primary,Public,View
+Anambra,Nnewi North,Umudim ward II,57103830,04/14/1/1/1/0068,Eme Court Primary Health Centre,Primary,Public,View
+Anambra,Nnewi North,Umudim ward II,83862606,04/14/1/1/2/0036,Life Specialist Hospital And Maternity,Secondary,Private,View
+Anambra,Nnewi North,Umudim ward II,18384324,04/14/1/2/2/0079,St Felix Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Umudim ward II,47185947,04/14/1/2/2/0020,The Light Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Umudim ward II,57545731,04/14/1/1/2/0111,Uchechukwu Maternity Ebeleogo Nnewi,Primary,Private,View
+Anambra,Nnewi North,Uruagu III,79873146,04/14/1/1/2/0084,Chidiebele Primary Health Care Center,Primary,Private,View
+Anambra,Nnewi North,Uruagu III,35901757,04/14/1/1/1/0012,Foundation Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi North,Uruagu III,18802214,04/14/1/2/2/0015,Rose of Sharon Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Nnewi South,Akwaihedi ward,20114025,04/15/1/1/1/0071,comprehensive primary health centre Akwaihedi,Primary,Public,View
+Anambra,Nnewi South,Amichi ward 8,80820190,04/15/1/1/1/0072,Orjiezeka health post,Primary,Public,View
+Anambra,Nnewi South,Ebenator ward 18,61303659,04/15/1/2/2/0073,Calvary Hospital & Maternity,Secondary,Private,View
+Anambra,Nnewi South,Osumenyi 13,46512959,04/15/1/1/2/0070,Good health hospital osumenyi,Secondary,Private,View
+Anambra,Nnewi South,Unubi 17,56588800,04/15/1/2/2/0074,unubi medical complex,Secondary,Private,View
+Anambra,Ogbaru,Atani ward II,15928792,04/17/1/1/2/0045,Maternal and Child Health Clinic Atani,Primary,Public,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,38655425,04/16/1/1/2/0002,Beautiful gate Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,61239389,04/16/1/2/2/0065,Blessed Maternity,Primary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,34552173,04/16/1/1/2/0004,"Chioma Matenrity Hospital, Odekpe",Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,28671339,04/16/1/2/2/0076,God Favour maternity home,Primary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,21125353,04/16/1/1/1/0063,Holy Child Maternity,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,54499994,04/16/1/2/2/0003,Lumen Christ Hospital,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,56621342,04/16/1/2/2/0069,Ndubuisi Maternity home,Primary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,33224753,04/16/1/1/2/0011,New Life Hospital,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,15559605,04/16/1/2/2/0068,Our Mother Pepetual Help Maternity,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,66908697,04/16/1/1/1/0063,St Beth Hospital,Secondary,Private,View
+Anambra,Ogbaru,Iyiowa Odekpe ward,56222139,04/10/1/1/2/0063,Victory Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Ogbakuba/Ochuche/Amiyi ward,66071953,04/16/1/1/1/0012,Ogbakuba Primary Health Centre,Primary,Public,View
+Anambra,Ogbaru,Ogbakuba/Ochuche/Amiyi ward,19217875,04/16/1/1/1/0025,Umuzu Health Post,Primary,Public,View
+Anambra,Ogbaru,Okpoko ward I,80311185,04/16/1/1/1/0064,Okpoko Primary Health Centre 1,Primary,Public,View
+Anambra,Ogbaru,Okpoko ward II,27863735,04/21/1/1/2/0016,Ijeoma Maternity,Primary,Private,View
+Anambra,Ogbaru,Okpoko ward III,26001518,04/16/1/1/2/0019,Patricia Memorial Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,53548039,04/16/1/2/2/0001,Bethel Hospital Okpoko,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,27440379,04/16/1/1/1/0063,Chidi Maternity,Primary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,82687708,04/16/1/2/2/0066,Chukwu Memorial Hospital and maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,84555106,04/16/1/1/1/0008,Mother of Mercy Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,54929002,04/16/1/1/2/0017,Orient Hospital And Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,71109243,04/16/1/2/2/0072,St Mary hospital and maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward IV,50494430,04/16/1/2/2/0070,Uchenna hospital and maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward V,39223784,04/16/1/1/2/0006,Ebenezar Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward V,36474183,04/16/1/2/2/0002,Edmund Specialist Hospital,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward V,59894790,04/16/1/1/1/0063,Kelechi Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward V,75072052,04/16/1/1/2/0021,Somtoochukwu Maternity Clinic,Primary,Private,View
+Anambra,Ogbaru,Okpoko ward V,71406127,04/16/1/2/2/0071,St Paul Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward V,17063249,04/16/1/1/1/0063,St. Lukes Hospital,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,66118928,04/16/1/1/1/0063,Chukwubuike Maternity Home,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,56743904,04/16/1/1/2/0008,Goodnews Hospital And Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,80627689,04/16/1/1/1/0063,Kingskid Hospital,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,25206735,04/16/1/2/2/0078,Multi-Care hospital,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,45697958,04/16/1/1/2/0016,Nwobi Hospital And Maternity,Secondary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,84039808,04/16/1/2/2/0074,Ogechukwu maternity,Primary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,60275315,04/16/1/1/1/0017,Onyinyechukwu Maternity,Primary,Private,View
+Anambra,Ogbaru,Okpoko ward VI,68264952,04/16/1/1/2/0020,Presentation Hospital and Maternity,Secondary,Private,View
+Anambra,Ogbaru,Ossomalla,52879344,04/16/1/2/1/0001,Ossomala General Hospital,Secondary,Public,View
+Anambra,Onitsha North,3-3 Marine 6,72929085,04/17/1/1/1/0001,3-3 Health Post,Primary,Public,View
+Anambra,Onitsha North,3-3 Marine 6,36064765,04/17/1/1/2/0002,Akpaka Primary Health Centre,Primary,Public,View
+Anambra,Onitsha North,3-3 Marine 6,56222797,04/17/1/1/1/0006,Federal Government Girls Clinic,Primary,Public,View
+Anambra,Onitsha North,3-3 Marine 6,19128479,04/17/1/1/1/0009,Prisons Marine Health Post,Primary,Public,View
+Anambra,Onitsha North,American Quarters ward 1,67893814,04/17/1/1/2/0003,All Hallows Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,American Quarters ward 1,77259861,04/17/1/2/2/0012,Kanayo Specialist Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,American Quarters ward 1,71223810,04/17/1/2/2/0070,Mezie Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,American Quarters ward 1,61208935,04/17/1/2/2/0066,Mrecy Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Army Barracks ward 2,50666335,04/17/1/1/2/0006,Army Barracks MRS Hospital,Secondary,Public,View
+Anambra,Onitsha North,Army Barracks ward 2,69580583,04/10/1/1/2/0042,First line Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Army Barracks ward 2,79371727,04/17/1/1/2/0030,Isiafor Health Post,Primary,Public,View
+Anambra,Onitsha North,Army Barracks ward 2,54479862,04/17/1/2/2/0069,New Life Hospital and maternity,Secondary,Private,View
+Anambra,Onitsha North,Army Barracks ward 2,55416943,04/17/1/2/2/0017,St Charles Borromeo Hospital,Secondary,Private,View
+Anambra,Onitsha North,Army Barracks ward 2,27156268,04/17/1/1/2/0061,Winners Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,Emmanuel Church ward 3,22093677,04/17/1/1/1/0005,Emmanuel Church Primary Health Centre,Primary,Public,View
+Anambra,Onitsha North,Emmanuel Church ward 3,39045483,04/17/1/1/2/0042,Pinoeer Internatial Hospital,Secondary,Private,View
+Anambra,Onitsha North,Emmanuel Church ward 3,74159468,04/17/1/1/2/0023,Rushgreen Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Emmanuel Church ward 3,36440849,04/10/1/2/2/0031,Shalom Foundation Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Main Market ward 5,83246578,04/17/1/1/1/0004,Christ Church Health Post,Primary,Public,View
+Anambra,Onitsha North,Ogbeumuonicha ward 7,61831172,04/17/1/2/2/0003,Arinzechukwu Hospital,Secondary,Private,View
+Anambra,Onitsha North,Ogbeumuonicha ward 7,18061222,04/17/1/1/1/0003,Basic Health Centre Onitsha,Primary,Public,View
+Anambra,Onitsha North,Ogbeumuonicha ward 7,27669238,04/17/1/2/2/0011,Holy Rosary Specialist Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,Ogbeumuonicha ward 7,53621435,04/17/1/1/1/0010,Police Medical Centre,Secondary,Public,View
+Anambra,Onitsha North,Ogbeumuonicha ward 7,64519088,04/17/1/1/2/0053,ST Jqseph Specialist Hospital Onitsha,Secondary,Private,View
+Anambra,Onitsha North,Ogbolieke 10,76880243,04/17/1/1/2/0007,Azokwu Memorial Specialist Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,Ogbolieke 10,58342540,04/17/1/1/1/0063,Ogboye Phc,Primary,Public,View
+Anambra,Onitsha North,Omagba 1,75148439,04/17/1/1/2/0059,Venik Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Omagba 2,74479305,04/17/1/1/1/0007,Holy Spirit Primary Health Centre,Primary,Public,View
+Anambra,Onitsha North,Omagba 2,43264794,04/17/1/1/2/0035,Multicare Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,Omagba 2,27901107,04/17/1/1/2/0051,St. Banabas Health Post,Primary,Private,View
+Anambra,Onitsha North,Omagba 2,25244689,04/17/1/1/2/0054,St. Leo Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha North,Umuaroli 2,21977106,04/17/1/1/1/0068,Church of Divine Love H/P,Primary,Public,View
+Anambra,Onitsha North,Umuaroli 2,30084106,04/17/1/2/2/0067,Salvation Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Umudei 13,77593161,04/17/1/2/2/0009,Classic Specialist Hospital,Secondary,Private,View
+Anambra,Onitsha North,Umudei 13,27333676,04/17/1/2/2/0064,Nchedochukwu Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Umudei 13,84519982,04/17/1/2/1/0001,Onitsha General Hospital,Secondary,Public,View
+Anambra,Onitsha North,Water Works 14,63088567,04/17/1/1/2/0029,Inland Town Primary Health Centre,Primary,Public,View
+Anambra,Onitsha North,Water Works 14,24126212,04/17/1/2/2/0065,Mount Zion Medical Center,Secondary,Private,View
+Anambra,Onitsha North,Water Works 14,37367235,04/17/1/1/2/0055,St. Marys Catholic Church Osha Health Post,Primary,Public,View
+Anambra,Onitsha North,Water Works 14,82503403,04/17/1/1/2/0056,St.Patrick'S Hospital And Maternity,Secondary,Public,View
+Anambra,Onitsha North,Water Works 14,26011193,04/08/1/2/2/0001,The Lord's Glory Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Woliwo 15,81434249,04/17/1/2/2/0071,Gozie Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Woliwo 15,43973166,04/17/1/1/2/0034,Mary Immaculate Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha North,Woliwo 15,59087633,04/17/1/2/2/0016,Our Lady'S Of Fatima Woliwo Health Post,Primary,Public,View
+Anambra,Onitsha North,Woliwo 15,74653857,04/17/1/1/2/0019,Queen of Rossary Health Clinic,Primary,Public,View
+Anambra,Onitsha North,Woliwo 15,83569345,04/17/1/1/2/0057,Toronto Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Bridge Head ward 2,13309825,04/18/1/1/2/0001,Bethsidar Hospital,Secondary,Private,View
+Anambra,Onitsha South,Bridge Head ward 2,83239795,04/18/1/1/1/0008,Recreation Health Post,Primary,Public,View
+Anambra,Onitsha South,Bridge Head ward 3,16259019,04/18/1/1/1/0007,Queen Of Peace Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge 5,30593583,04/18/1/2/2/0029,Chima Hospital Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge 5,69164212,04/18/1/2/2/0005,Glory Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge 5,16260192,04/18/1/1/2/0012,Paragon Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge 5,50887732,04/18/1/1/1/0016,St. John Ang Primary Health Centre,Primary,Public,View
+Anambra,Onitsha South,Fegge 5,76281611,04/18/1/1/2/0017,Ucheakpunwa Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge 6,81376735,04/18/1/2/2/0002,Benedict Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge 6,12818897,04/18/1/2/2/0021,PAX Childrens Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge 6,73181845,04/18/1/1/1/0019,Saint Cyprian Memorial Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge 6,21176558,04/18/1/1/1/0014,St. Dominic Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge 7,34545755,04/18/1/1/1/0019,St. Jude Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge 7,48384236,04/18/1/1/1/0017,St. Monica Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge 7,74222289,04/18/1/2/2/0025,Udechukwu Memorial Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 1,70216954,04/18/1/1/2/0002,Chimbuchi Maternity Home Fegge,Primary,Private,View
+Anambra,Onitsha South,Fegge ward 1,82436935,04/18/1/2/2/0003,Christ the King Children Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 1,64300841,04/18/1/1/1/0004,Methodist Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge ward 1,30691650,04/18/1/1/1/0009,Redemption Health Post,Primary,Public,View
+Anambra,Onitsha South,Fegge ward 1,59733627,04/18/1/1/1/0028,"ST Faith Health Post, Fegge",Primary,Public,View
+Anambra,Onitsha South,Fegge ward 3,59881189,04/18/1/1/2/0004,Delta Hospital And Maternity,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 3,15301461,04/18/1/2/2/0023,Nkeoma Specialist Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 3,14339614,04/18/1/2/2/0027,White Chapel Specialist Hospital,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 4,15551960,04/18/1/1/2/0007,Makon Hospital Fegge,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 4,38185618,04/18/1/1/1/0012,St Dominic Medical Centre,Secondary,Private,View
+Anambra,Onitsha South,Fegge ward 4,25879496,04/18/1/1/1/0019,Ziks Avenue Health Post,Primary,Public,View
+Anambra,Onitsha South,Odoakpu 4,15230527,04/18/1/1/1/0002,Health Post Pam Pam,Primary,Public,View
+Anambra,Onitsha South,Odoakpu 4,34206783,04/18/1/1/1/0003,Sokoto Road Health Post,Primary,Public,View
+Anambra,Onitsha South,Odoakpu 7,44899983,04/18/1/1/1/0019,God's Estate Specialist Hospital,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu 7,79115979,04/18/1/1/1/0034,"St Barnabas Health Post ,",Primary,Public,View
+Anambra,Onitsha South,Odoakpu ward 1,40198022,04/18/1/2/2/0035,Anachebe Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 1,22685002,04/18/1/2/2/0006,Menax Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 2,58602488,04/18/1/1/2/0003,CEO Clinic,Primary,Private,View
+Anambra,Onitsha South,Odoakpu ward 2,58927040,04/18/1/2/2/0032,Ezinne Children Hospital,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 2,14102940,04/18/1/1/2/0010,New Hope Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 2,18355387,04/18/1/1/1/0006,Odoakpu Model Primary Health Centre,Primary,Public,View
+Anambra,Onitsha South,Odoakpu ward 2,24214598,04/18/1/2/2/0010,Victory Children's Hospital,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 5,58162882,04/18/1/2/2/0030,Dibiaezue Hospital and Maternity,Secondary,Private,View
+Anambra,Onitsha South,Odoakpu ward 5,41024558,04/18/1/1/1/0005,Nweje Health Post,Primary,Public,View
+Anambra,Onitsha South,Odoakpu ward 5,16906257,04/18/1/1/1/0024,Sacred Heart Clinic,Primary,Public,View
+Anambra,Onitsha South,Odoakpu ward 6,78432864,04/18/1/1/1/0015,St. John De Baptist Health Post,Primary,Public,View
+Anambra,Onitsha South,Odoakpu ward 6,42496559,04/18/1/2/2/0031,Twin and Trinity Medical Center,Secondary,Private,View
+Anambra,Orumba North,Ajali I,67127023,04/19/1/1/1/0023,Ajalli Maternal and Child Health Clinic,Primary,Public,View
+Anambra,Orumba North,Ajali I,45008733,04/19/1/1/1/0061,Ajalli Model Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ajali I,61811586,04/19/1/2/1/0002,General Hospital Orumba,Secondary,Public,View
+Anambra,Orumba North,Amaokpala ward,38033454,04/19/1/1/1/0007,Amaokpala Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Amaokpala ward,29595949,04/19/1/2/2/0067,Holly Wood Hospital and Maternity Amaokpala,Secondary,Private,View
+Anambra,Orumba North,Awgbu II,16477993,04/19/1/1/1/0011,Awgbu II Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Nanka 11,75239278,04/15/1/1/1/0015,Amako Nanka Health Centre,Primary,Public,View
+Anambra,Orumba North,Nanka 11,28113621,04/19/1/1/1/0027,Nanka 11 Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Nanka I,86928737,04/19/1/2/2/0071,Chukwunonso Hospital and Maternity Nanka,Secondary,Private,View
+Anambra,Orumba North,Nanka I,31956025,04/19/1/1/1/0025,Nanka 1 Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndikelionwu I,74620303,04/19/1/1/1/0008,Arogwe Health Post,Primary,Public,View
+Anambra,Orumba North,Ndikelionwu I,25168142,04/19/1/1/1/0028,Ndikelionwu Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndikelionwu I,42222861,04/19/1/1/1/0051,Umuochu primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndiokpalaeze,53156616,04/19/1/1/1/0061,Ndiokpalaeze Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndiowu I,42892677,04/19/1/1/1/0004,Agbata Ndiowu Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndiowu I,33811517,04/19/1/1/1/0024,"Model Primary Health Centre, Ndiowu",Primary,Public,View
+Anambra,Orumba North,Ndiowu I,66053929,04/19/1/1/1/0034,Ndiowu Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ndiukwuenu,40401191,04/19/1/1/1/0035,Ndiukwuenu Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Oko 1,59896692,04/19/1/1/1/0038,Oko I Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Oko 1,55704896,04/19/1/2/2/0069,St. Augustine Hospital and Maternity Oko,Secondary,Private,View
+Anambra,Orumba North,Oko II,32020637,04/19/1/1/2/0002,Chukwunonso Hospital & Maternity Oko,Secondary,Private,View
+Anambra,Orumba North,Oko II,39903462,04/19/1/2/2/0062,St Micheal the Arch Angel Hospital,Secondary,Private,View
+Anambra,Orumba North,Omogho,18977873,04/19/1/1/1/0022,Iwolo Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Omogho,50803551,04/19/1/1/1/0041,Omogho Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ufuma I,87008618,04/19/1/1/1/0017,Enugu-Abo Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ufuma I,76007021,04/19/1/1/1/0059,Umuaguosibe Health Post,Primary,Public,View
+Anambra,Orumba North,Ufuma I,38748173,04/19/1/1/1/0060,Umueji Primary Health Centre,Primary,Public,View
+Anambra,Orumba North,Ufuma II,21151719,04/19/1/1/1/0018,Etiti Umuogu Health Post,Primary,Public,View
+Anambra,Orumba North,Ufuma II,38746566,04/19/1/1/1/0056,Umuonyiba Health Post,Primary,Public,View
+Anambra,Orumba South,Ezira ward,66020243,04/20/1/1/1/0008,Ezira Primary Health Centre,Primary,Public,View
+Anambra,Orumba South,Ihite ward,17288202,04/20/1/1/1/0041,Ihite Primary Health Center,Primary,Public,View
+Anambra,Orumba South,Isulo ward,72876875,04/20/1/1/1/0025,Isulo Primary Health Centre,Primary,Public,View
+Anambra,Orumba South,Nawfija ward,21686693,04/20/1/1/1/0046,Umuawaihai Health Post,Primary,Public,View
+Anambra,Orumba South,Ogbunka ward I,18967308,04/20/1/1/1/0030,Ogbunka Primary Health Centre,Primary,Public,View
+Anambra,Orumba South,Owelle Ezukalla ward 1,33740708,04/20/1/1/2/0006,Mata Maternity Home Owerre-Ezukala,Primary,Private,View
+Anambra,Orumba South,Owelle Ezukalla ward 1,78044569,04/20/1/1/1/0035,Owere Ezukala Primary Health Centre,Primary,Public,View
+Anambra,Orumba South,Umunze II,81565486,04/20/1/1/1/0028,Nsogwu Primary Health Centre,Primary,Public,View
+Anambra,Orumba South,Umunze II,60098458,04/20/1/1/2/0008,"Onyebuchi Matenity/Hospital, Umunze",Secondary,Private,View
+Anambra,Oyi,Awkuzu ward 1,48430422,04/21/1/2/2/0043,Chinazondu Specialist Hospital and Maternity,Secondary,Private,View
+Anambra,Oyi,Awkuzu ward 1,48496474,04/21/1/1/1/0014,Igbu Health Clinic,Primary,Public,View
+Anambra,Oyi,Awkuzu ward 2,19573782,04/21/1/1/2/0020,Ndibunagu Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Awkuzu ward 2,15947459,04/21/1/1/2/0038,Otoko Health Clinic,Primary,Private,View
+Anambra,Oyi,Awkuzu ward 4,43268674,04/21/1/1/2/0003,Awkuzu Pimary Health Centre,Primary,Public,View
+Anambra,Oyi,Awkuzu ward 4,47856666,04/21/1/1/2/0066,Blessed Family Primary Health Center,Primary,Private,View
+Anambra,Oyi,Awkuzu ward 4,83900752,04/21/1/2/2/0045,Isaac Chira Memorial Hospital,Secondary,Private,View
+Anambra,Oyi,Awkuzu ward 4,18289790,04/21/1/1/1/0008,Obinetit i Awkuzu Health Clinic,Primary,Public,View
+Anambra,Oyi,Awkwuzu 3,22826308,04/21/1/1/2/0061,Divine Grace PHC clinic,Primary,Private,View
+Anambra,Oyi,Awkwuzu 3,33804712,04/21/1/1/1/0009,Ifite Awkuzu Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Awkwuzu 3,77942758,04/21/1/1/2/0060,Trinity Favour Room and Maternity,Primary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,58875794,04/21/1/2/2/0035,All Saint Hospital And Maternity.,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,79514239,04/21/1/2/2/0034,Apex Hospital,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,76854059,04/21/1/2/2/0063,Christ The King Hospital and maternity,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,62171490,04/21/1/1/2/0031,Divinity Clinic and Maternity,Primary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,48167257,04/21/1/2/2/0044,Domi Clinic,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,51232447,04/21/1/1/1/0033,Ifite- Nkwelle Primary Health Center,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 1,60579433,04/21/1/2/2/0037,Multi Care Hospital And Maternity,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 1,69519701,04/21/1/1/1/0020,Oyolu Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 1,53683679,04/21/1/1/1/0032,St Stephen Primary Health Care Centre,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 1,22292146,04/21/1/1/1/0030,The Lords Glory Maternity,Primary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 2,12552305,04/21/1/1/1/0001,Abakpu Health Clinic,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 2,26382405,04/21/1/2/2/0050,Day Star Specialist Hospital And Maternity,Secondary,Private,View
+Anambra,Oyi,Nkwelle Ezunaka 2,47975073,04/21/1/1/1/0017,Nkwelle Model Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 2,51109114,04/21/1/1/1/0018,Nkwelle Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Nkwelle Ezunaka 2,35136271,04/21/1/1/1/0022,Oze Nkwelle Ezunaka Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Nteje ward 1,17056399,04/21/1/1/2/0036,His Grace maternity,Primary,Private,View
+Anambra,Oyi,Nteje ward 1,67131543,04/21/1/1/2/0069,Miracle Maternity Home,Primary,Private,View
+Anambra,Oyi,Nteje ward 1,53979336,04/21/1/1/2/0046,Ndubuisi Maternity,Primary,Private,View
+Anambra,Oyi,Nteje ward 1,12665657,04/21/1/1/1/0030,Nteje Maternal and Child Health,Primary,Public,View
+Anambra,Oyi,Nteje ward 2,20607835,04/21/1/1/1/0053,Amadiaba Health Clinic Nteje,Primary,Public,View
+Anambra,Oyi,Nteje ward 3,87552216,04/21/1/1/1/0049,Ikenga Health Clinic,Primary,Public,View
+Anambra,Oyi,Nteje ward 3,76822577,04/21/1/1/2/0018,Mother of Mercy Hospital and Maternity,Secondary,Private,View
+Anambra,Oyi,Nteje ward 4,21617586,04/21/1/1/1/0002,Achallagu Health Clinic,Primary,Public,View
+Anambra,Oyi,Nteje ward 4,48726267,04/21/1/1/1/0019,Nteje Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Nteje ward 4,16604845,04/21/1/1/2/0055,Ogoo Maternity,Primary,Private,View
+Anambra,Oyi,Nteje ward 4,43705793,04/21/1/2/2/0067,St Mary Hospital/Maternity,Secondary,Private,View
+Anambra,Oyi,Nteje ward 5,54158079,04/21/1/1/1/0054,Ifite-Nteje Primary Health Center,Primary,Public,View
+Anambra,Oyi,Ogbunike 1,61484969,04/21/1/1/1/0012,Ifite Ogbunike Primary Health Center,Primary,Public,View
+Anambra,Oyi,Ogbunike 1,69856341,04/21/1/2/2/0058,St Augustine Hospital,Secondary,Private,View
+Anambra,Oyi,Ogbunike 2,41092404,04/21/1/1/2/0057,Akachukwu Maternity,Primary,Private,View
+Anambra,Oyi,Ogbunike 2,38097183,04/21/1/1/1/0027,Azu Ogbunike Primary Health Center,Primary,Public,View
+Anambra,Oyi,Ogbunike 2,18459847,04/21/1/1/2/0041,Ify Maternity,Primary,Private,View
+Anambra,Oyi,Ogbunike 2,44280882,04/21/1/1/1/0025,Ogbunike Primary Health Centre,Primary,Public,View
+Anambra,Oyi,Umunya 1,13901759,04/21/1/1/2/0005,Beatrice Hospital Umunya,Secondary,Private,View
+Anambra,Oyi,Umunya 1,18392683,04/21/1/1/2/0068,Divine Sphere Hospital,Secondary,Private,View
+Anambra,Oyi,Umunya 1,53608700,04/21/1/1/1/0039,Obinetiti Umunya primary Health Clinic,Primary,Public,View
+Anambra,Oyi,Umunya 1,62833331,04/21/1/2/1/0052,Umunya Comprehensive Health Center (NAUTH),Secondary,Public,View
+Anambra,Oyi,Umunya 2,34729192,04/21/1/1/1/0040,Umunya Primary Health Center,Primary,Public,View
+
